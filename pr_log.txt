@@ -429,3 +429,121 @@ To https://github.com/Weirdo-147/pr-spam-race
 Warning: 1 uncommitted change
 https://github.com/Weirdo-147/pr-spam-race/pull/86
 ✅ PR Created: pr-bot-2025-02-23_14-27-25
+Switched to a new branch 'pr-bot-2025-02-23_14-27-29'
+fatal: Unable to create '/workspaces/pr-spam-race/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/workspaces/pr-spam-race/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+remote: 
+remote: Create a pull request for 'pr-bot-2025-02-23_14-27-29' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/pr-spam-race/pull/new/pr-bot-2025-02-23_14-27-29        
+remote: 
+To https://github.com/Weirdo-147/pr-spam-race
+ * [new branch]      pr-bot-2025-02-23_14-27-29 -> pr-bot-2025-02-23_14-27-29
+Warning: 2 uncommitted changes
+https://github.com/Weirdo-147/pr-spam-race/pull/87
+✅ PR Created: pr-bot-2025-02-23_14-27-29
+Switched to a new branch 'pr-bot-2025-02-23_14-27-32'
+fatal: Unable to create '/workspaces/pr-spam-race/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/workspaces/pr-spam-race/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+remote: 
+remote: Create a pull request for 'pr-bot-2025-02-23_14-27-32' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/pr-spam-race/pull/new/pr-bot-2025-02-23_14-27-32        
+remote: 
+To https://github.com/Weirdo-147/pr-spam-race
+ * [new branch]      pr-bot-2025-02-23_14-27-32 -> pr-bot-2025-02-23_14-27-32
+Warning: 2 uncommitted changes
+https://github.com/Weirdo-147/pr-spam-race/pull/88
+✅ PR Created: pr-bot-2025-02-23_14-27-32
+Switched to a new branch 'pr-bot-2025-02-23_14-27-36'
+fatal: Unable to create '/workspaces/pr-spam-race/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/workspaces/pr-spam-race/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+remote: 
+remote: Create a pull request for 'pr-bot-2025-02-23_14-27-36' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/pr-spam-race/pull/new/pr-bot-2025-02-23_14-27-36        
+remote: 
+To https://github.com/Weirdo-147/pr-spam-race
+ * [new branch]      pr-bot-2025-02-23_14-27-36 -> pr-bot-2025-02-23_14-27-36
+Warning: 2 uncommitted changes
+https://github.com/Weirdo-147/pr-spam-race/pull/89
+✅ PR Created: pr-bot-2025-02-23_14-27-36
+Switched to a new branch 'pr-bot-2025-02-23_14-27-40'
+fatal: Unable to create '/workspaces/pr-spam-race/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/workspaces/pr-spam-race/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+remote: 
+remote: Create a pull request for 'pr-bot-2025-02-23_14-27-40' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/pr-spam-race/pull/new/pr-bot-2025-02-23_14-27-40        
+remote: 
+To https://github.com/Weirdo-147/pr-spam-race
+ * [new branch]      pr-bot-2025-02-23_14-27-40 -> pr-bot-2025-02-23_14-27-40
+Warning: 2 uncommitted changes
+https://github.com/Weirdo-147/pr-spam-race/pull/90
+✅ PR Created: pr-bot-2025-02-23_14-27-40
+Switched to a new branch 'pr-bot-2025-02-23_14-27-44'
+[pr-bot-2025-02-23_14-27-44 deae0e2] Auto PR - 2025-02-23_14-27-44
+ 1 file changed, 5 insertions(+)
+remote: 
+remote: Create a pull request for 'pr-bot-2025-02-23_14-27-44' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/pr-spam-race/pull/new/pr-bot-2025-02-23_14-27-44        
+remote: 
+To https://github.com/Weirdo-147/pr-spam-race
+ * [new branch]      pr-bot-2025-02-23_14-27-44 -> pr-bot-2025-02-23_14-27-44
+Warning: 1 uncommitted change
+https://github.com/Weirdo-147/pr-spam-race/pull/91
+✅ PR Created: pr-bot-2025-02-23_14-27-44
+Switched to a new branch 'pr-bot-2025-02-23_14-27-48'
+[pr-bot-2025-02-23_14-27-48 b354b86] Auto PR - 2025-02-23_14-27-48
+ 1 file changed, 1 insertion(+)
+remote: 
+remote: Create a pull request for 'pr-bot-2025-02-23_14-27-48' on GitHub by visiting:        
+remote:      https://github.com/Weirdo-147/pr-spam-race/pull/new/pr-bot-2025-02-23_14-27-48        
+remote: 
+To https://github.com/Weirdo-147/pr-spam-race
+ * [new branch]      pr-bot-2025-02-23_14-27-48 -> pr-bot-2025-02-23_14-27-48
+Warning: 1 uncommitted change
